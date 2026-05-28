@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abbygirl14
+- 👋 Hi, I’m @Violet
 - 👀 I’m interested in Web , Software and Game Development
 - 🌱 I’m currently learning Javascript and Node.JS
 - 💞️ I’m a Computer Engineering Student
